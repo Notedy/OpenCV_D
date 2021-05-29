@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emgu_openCV_Homework", "Emgu_openCV_Homework\Emgu_openCV_Homework.csproj", "{CAC56BF9-E682-4F5F-A2E6-29B143472CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAC56BF9-E682-4F5F-A2E6-29B143472CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC56BF9-E682-4F5F-A2E6-29B143472CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC56BF9-E682-4F5F-A2E6-29B143472CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC56BF9-E682-4F5F-A2E6-29B143472CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98A75939-6D8C-4F01-AA92-BB31B1E7CFF3}
+	EndGlobalSection
+EndGlobal
